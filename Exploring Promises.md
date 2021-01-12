@@ -5,13 +5,9 @@
 Exploring Promises
 ==================
 
-Now it is time for you to get your hands dirty and lock in the concept
-of **Promises** by creating your own functions and handlers.
-Specifically, you will explore `await`,
-`async`  , the `Promise`   class,
-`then`  , and `catch`  .
 
-Begin by creating a new folder with a JavaScript file within it (such
+
+Create a new folder with a JavaScript file within it (such
 as, **promises.js**).
 
 Additional resources
@@ -351,15 +347,5 @@ PROGRAM" will be logged). Also, feel free to rerun your program as many
 times as you'd like until you feel like you fully understand why the
 order and timing happens as it does.
 
-Did you find this lesson helpful?
-
-No
-
-Yes
-
-**✔︎ Submit Project**
-
-Archive your file into a **.zip** folder and click **Submit Project** to
-upload.
 
 
