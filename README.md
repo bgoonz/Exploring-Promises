@@ -13,15 +13,11 @@ as, **promises.js**).
 Additional resources
 --------------------
 
-While these instructions should guide you through this experimentation,
-you may find you want some additional information or another look at the
-topics as you work. If so, feel free to come back to these links at the
-time you need them.
 
 -   [async-await](https://javascript.info/async-await)
 -   [resolve-reject](https://javascript.info/promise-api#promise-resolve-reject)
 
-Go for it! You got this!!!
+
 
 Phase 1: `async`  
 ------------------------------------
